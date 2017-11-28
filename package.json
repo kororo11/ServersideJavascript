@@ -1,0 +1,22 @@
+{
+  "name": "serversidejavascript",
+  "version": "1.0.0",
+  "description": "node js practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kororo11/serverSideJavaScript.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "kororo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kororo11/serverSideJavaScript/issues"
+  },
+  "homepage": "https://github.com/kororo11/serverSideJavaScript#readme"
+}
