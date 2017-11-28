@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kororo11/serverSideJavaScript/issues"
   },
-  "homepage": "https://github.com/kororo11/serverSideJavaScript#readme"
+  "homepage": "https://github.com/kororo11/serverSideJavaScript#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
